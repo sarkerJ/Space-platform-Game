@@ -33,13 +33,13 @@ The goal of this project was to create a space game platformer with incremental 
 
 
 
-##### Preview of level one
+#### Preview of level one
 
+![levelOnePreview](https://github.com/sarkerJ/Space-platform-Game/blob/main/Images/PreviewLevelOne.png)
 
+#### Preview of level three
 
-##### Preview of level three
-
-
+![levelThreePreview](https://github.com/sarkerJ/Space-platform-Game/blob/main/Images/PreviewLevelThree.png)
 
 ### Game Rules
 
