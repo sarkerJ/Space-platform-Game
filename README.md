@@ -1,5 +1,5 @@
 # Space-platform-Game
-This is my first Unity game project that I have built during my third year in Brunel University for my Computer Science course.
+This is my first game project that I have built during my third year in Brunel University for my Computer Science course. The application was created using Visual studio and Unity. The codebase for each class in the application was created using C# and visual studio libraries. 
 
 ### Project Goal
 
